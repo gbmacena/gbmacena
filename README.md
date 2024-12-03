@@ -1,5 +1,9 @@
 <h2 align="left">Olá, sou Gabriel Macena (;</h2>
 
+```javascript
+console.log("Hello World");
+```
+
 ###
 
 <div align="center">
