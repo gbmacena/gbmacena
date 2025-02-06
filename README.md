@@ -10,7 +10,7 @@ console.log("Hello World");
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gbmacena&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gbmacena&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="160" alt="GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gbmacena&theme=dracula&hide_border=false" height="160" alt="GitHub Streak Stats" /> </div>
+
 
 ###
 
