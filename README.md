@@ -42,4 +42,11 @@ console.log("Hello World");
   <img src="https://streak-stats.demolab.com?user=gbmacena&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+
+<h3 align="left">Minhas redes:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gabriel macena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel macena" height="30" width="40" /></a>
+<a href="https://instagram.com/gabrielmacena0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrielmacena0" height="30" width="40" /></a>
+</p>
+
 ###
