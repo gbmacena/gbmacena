@@ -43,9 +43,9 @@ console.log("Hello World");
 </div>
 
 
-<h3 align="left">Minhas redes:</h3>
+<h2 align="left">Minhas redes:</h2>
 <p align="left">
-<a href="https://linkedin.com/in/gabriel macena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel macena" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabriel-macena-871333315/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel macena" height="30" width="40" /></a>
 <a href="https://instagram.com/gabrielmacena0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabrielmacena0" height="30" width="40" /></a>
 </p>
 
