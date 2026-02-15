@@ -14,10 +14,11 @@ console.log("Hello World");
 ###
 
 <p align="left">
-Full Stack Software Engineer<br>
-Arquitetura • Performance • Escalabilidade<br>
-Sistemas pensados para crescer desde o primeiro commit
+💻 Full Stack Software Engineer<br>
+🏗️ Arquitetura • Performance • Escalabilidade<br>
+⚙️ Sistemas pensados para crescer desde o primeiro commit
 </p>
+
 
 ###
 
